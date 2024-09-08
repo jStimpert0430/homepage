@@ -120,6 +120,9 @@ import xteve from "./xteve/widget";
 import urbackup from "./urbackup/widget";
 import romm from "./romm/widget";
 import zabbix from "./zabbix/widget";
+import valheim from "./valheim/widget";
+import vrising from "./vrising/widget";
+import ut99 from "./ut99/widget";
 
 const widgets = {
   adguard,
@@ -242,6 +245,9 @@ const widgets = {
   uptimekuma,
   uptimerobot,
   urbackup,
+  ut99,
+  valheim,
+  vrising,
   watchtower,
   wgeasy,
   whatsupdocker,
